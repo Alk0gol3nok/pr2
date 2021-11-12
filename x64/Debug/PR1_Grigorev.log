@@ -1,0 +1,7 @@
+﻿  PR1_Grigorev.cpp
+C:\Users\aleks\source\repos\PR1_Grigorev\PR1_Grigorev.cpp(41,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\aleks\source\repos\PR1_Grigorev\PR1_Grigorev.cpp(49,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\aleks\source\repos\PR1_Grigorev\PR1_Grigorev.cpp(59,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\aleks\source\repos\PR1_Grigorev\PR1_Grigorev.cpp(75,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\aleks\source\repos\PR1_Grigorev\PR1_Grigorev.cpp(83,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\aleks\source\repos\PR1_Grigorev\PR1_Grigorev.cpp(93,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
